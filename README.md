@@ -1,2 +1,2 @@
-# Python-Pi-Generator
+# Python Pi Generator
 A PI generator in Python
